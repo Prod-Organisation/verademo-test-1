@@ -2,11 +2,6 @@
 
 ## Abouts.
 
-Blab-a-Gag is a fairly simple forum type application which allows:fkndkk test test1
-
-- users to post a one-liner joke..
-- users to follow the jokes of other users or not (listen or ignore).efewfd
-- users to comment on other users messages (heckle)
 
 ### URLs
 
