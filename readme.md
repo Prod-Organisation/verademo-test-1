@@ -11,7 +11,7 @@
 - jokes
 - heckles
   
-`/feed` shows the jokes/heckles that are relevant to the current user.testssads
+`/feed` shows the jokes/heckles that are relevant to the current user.
 
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
 
