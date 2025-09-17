@@ -4,8 +4,8 @@
 
 
 ### URLs
-
-`/reset` will reset the data in the database with a load of:
+sccsx
+`/reset` will reset the data in the database with a load of:sdxasx
 
 - users
 - jokes
