@@ -4,7 +4,7 @@ run-name: Veracode Build Artifact
 
 on:
   repository_dispatch:
-    types: [vulnado-build]
+    types: [verademo-build]
 
 jobs:
   register:
@@ -58,7 +58,7 @@ jobs:
         cd $cliFileName
         chmod +x install.sh
         ./install.sh system
-        cd /home/runner/work/vulnado/vulnado/
+        cd /home/runner/work/verademo/verademo/
         veracode package --source . --output veracode-artifacts --trust
         zip veracode-artifact.zip veracode-artifacts/* -x .zip .tar .tar.gz .gz
     - uses: actions/upload-artifact@v4
