@@ -5,7 +5,7 @@
 
 ### URLs
 
-`/reset` will reset the data in the database with a load of:fff
+`/reset` will reset the data in the database with a load of:fff test
 
 - users
 - jokes
