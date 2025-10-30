@@ -2,11 +2,8 @@
 
 ## Abouts.
 
-
+jnhjm
 ### URLs
-
-`/reset` will reset the data in the database with a load of:fff test test
-
 - users
 - jokes
 - heckles
